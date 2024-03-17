@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Dish from './components/dish';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
 import { data } from 'autoprefixer';
 import toast, { Toaster } from 'react-hot-toast';
@@ -9,7 +7,7 @@ import toast, { Toaster } from 'react-hot-toast';
 function App() {
   const [dishes, setDish] = useState([]);
   useEffect(() => {
-    fetch('/src/recipeByRuman.json')
+    fetch('recipeByRuman.json')
     // fetch('https://api.npoint.io/56e6840e6938af1ebb22x') 
       .then(res => res.json())
       .then(data => setDish(data));
