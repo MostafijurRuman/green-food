@@ -7,8 +7,7 @@ import toast, { Toaster } from 'react-hot-toast';
 function App() {
   const [dishes, setDish] = useState([]);
   useEffect(() => {
-    fetch('recipeByRuman.json')
-    // fetch('https://api.npoint.io/56e6840e6938af1ebb22x') 
+    fetch('https://api.npoint.io/56e6840e6938af1ebb22') 
       .then(res => res.json())
       .then(data => setDish(data));
   }, []);
