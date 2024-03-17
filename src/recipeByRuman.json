@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Chicken Stir-Fry",
+      "short_description": "Zesty chicken with fresh veggies",
+      "ingredients": ["550 g chicken","200 ml cream", "120 ml soy sauce"],
+      "preparing_time": "30",
+      "calories": "320",
+      "recipe_image": "https://i.ibb.co/L6fnZcT/1.jpg"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Creamy Tomato Pasta",
+      "short_description": "Rich pasta with tomato sauce",
+      "ingredients": ["400 g pasta", "500 g tomatoes", "200 ml cream"],
+      "preparing_time": "25",
+      "calories": "420",
+      "recipe_image": "https://i.ibb.co/f0RL2vZ/2.jpg"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Grilled Salmon Salad",
+      "short_description": "Fresh salad with grilled salmon fillet",
+      "ingredients": ["300 g salmon fillet", "150 g mixed greens", "100 g cherry tomatoes"],
+      "preparing_time": "20",
+      "calories": "250",
+      "recipe_image": "https://i.ibb.co/Gk4h5D3/3.jpg"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Vegetable Curry",
+      "short_description": "Spicy curry with assorted vegetables",
+      "ingredients": ["400 g mixed vegetables", "200 ml coconut milk", "150 g curry paste"],
+      "preparing_time": "40",
+      "calories": "380",
+      "recipe_image": "https://i.ibb.co/ZVnfNBZ/4.jpg"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Fruit Smoothie Bowl",
+      "short_description": "Refreshing bowl of blended fruits",
+      "ingredients": ["2 bananas", "1 cup berries", "100 g yogurt"],
+      "preparing_time": "10",
+      "calories": "200",
+      "recipe_image": "https://i.ibb.co/CsW6CDc/5.jpg"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Meditrn Salad",
+      "short_description": "Nutritious salad with quinoa veggies",
+      "ingredients": ["200 g quinoa", "100 g cucumber", "100 g bell pepper"],
+      "preparing_time": "15",
+      "calories": "300",
+      "recipe_image": "https://i.ibb.co/9w5zZkJ/6.jpg"
+    }
+  ]
+  
