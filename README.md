@@ -50,9 +50,7 @@ src/
 ├── recipeByRuman.json # Recipe data
 ```
 
-🌐 Live Demo
-Check out the live demo of the application:
-https://green-foodz.netlify.app/
+
 📜 License
 This project is licensed under the MIT License.
 
