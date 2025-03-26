@@ -52,8 +52,7 @@ src/
 
 🌐 Live Demo
 Check out the live demo of the application:
-
-<img alt="Live Demo" src="https://user-images.githubusercontent.com/123456789/placeholder-image.png">
+https://green-foodz.netlify.app/
 📜 License
 This project is licensed under the MIT License.
 
