@@ -1,4 +1,4 @@
-cd green-foodcd green-food# 🌱 Green Food
+🌱 Green Food
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://green-foodz.netlify.app/)
 
