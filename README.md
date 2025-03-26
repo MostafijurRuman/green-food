@@ -1,8 +1,60 @@
-# React + Vite
+cd green-foodcd green-food# 🌱 Green Food
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://green-foodz.netlify.app/)
 
-Currently, two official plugins are available:
+Green Food is a 🌍 sustainable React-based web application that helps users explore and manage recipes for a healthier lifestyle. With an intuitive interface and responsive design, it’s perfect for food enthusiasts who want to cook smarter and greener.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Features
+
+- 🥗 **Recipe Exploration**: Discover a variety of recipes with detailed descriptions, ingredients, and preparation times.
+- 📝 **Cooking List**: Add recipes to your "Want to Cook" list and track preparation time and calories.
+- 🍳 **Cooking Progress**: Manage your "Currently Cooking" list and track your progress.
+- 📱 **Responsive Design**: Optimized for all devices.
+- 🔔 **Interactive Notifications**: Get toast notifications for actions like adding recipes.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, TailwindCSS, DaisyUI
+- **Build Tool**: Vite
+- **State Management**: React Hooks
+- **Notifications**: `react-hot-toast`
+
+---
+
+## 🚀 Getting Started
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mostafijurRuman/green-food.git
+   cd green-food
+   npm install
+   npm run dev
+   ```
+
+### 📂 Folder Structure
+```
+src/
+├── components/       # Reusable React components
+├── images/           # Static images used in the app
+├── assets/           # Additional assets
+├── App.jsx           # Main application component
+├── main.jsx          # Entry point of the application
+├── index.css         # Global styles
+├── App.css           # Component-specific styles
+├── recipeByRuman.json # Recipe data
+```
+
+🌐 Live Demo
+Check out the live demo of the application:
+
+<img alt="Live Demo" src="https://user-images.githubusercontent.com/123456789/placeholder-image.png">
+📜 License
+This project is licensed under the MIT License.
+
+Made with ❤️ by Mostafijur Ruman. ```
